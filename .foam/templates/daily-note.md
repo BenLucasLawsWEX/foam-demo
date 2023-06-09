@@ -1,0 +1,26 @@
+---
+foam_template:
+    name: 'Journal'
+    filepath: 'notes/journal/$FOAM_DATE_YEAR/$FOAM_DATE_MONTH/$FOAM_DATE_DATE.md'
+---
+#journal
+
+# $FOAM_DATE_YEAR-$FOAM_DATE_MONTH-$FOAM_DATE_DATE
+
+## Notes
+- 
+
+## Log
+### PRD-1188 - VANs - Production Support
+| Work             | Time (h) |
+| :--------------- | -------: |
+| Support stand up |      .25 |
+
+### PRD-1183 - Payments Platform - Funding Engine
+| Work         | Time (h) |
+| :----------- | -------: |
+| BTE stand up |      .25 |
+
+### Other
+| Work | Time (h) |
+| :--- | -------: |

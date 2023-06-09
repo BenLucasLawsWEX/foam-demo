@@ -1,0 +1,24 @@
+{
+  "editor.minimap.enabled": false,
+  "editor.wrappingIndent": "indent",
+  "editor.overviewRulerBorder": false,
+  "editor.lineHeight": 24,
+  "[markdown]": {
+    "editor.wrappingIndent": "same",
+    "editor.quickSuggestions": {
+      "comments": "off",
+      "strings": "off",
+      "other": "off"
+    }
+  },
+  "files.defaultLanguage": "markdown",
+  "foam.edit.linkReferenceDefinitions": "off",
+  "foam.openDailyNote.directory": "journal",
+  "foam.openDailyNote.titleFormat": "yyyy-mm-dd",
+  "git.enableSmartCommit": true,
+  "git.postCommitCommand": "sync",
+  "gitdoc.enabled": true,
+  "markdown.preview.breaks": true,
+  "pasteImage.path": "${projectRoot}/attachments",
+  "pasteImage.showFilePathConfirmInputBox": true
+}
