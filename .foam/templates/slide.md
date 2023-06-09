@@ -5,4 +5,8 @@ foam_template:
 ---
 #slide
 
+# $FOAM_TITLE
+
 $0
+
+Next slide
