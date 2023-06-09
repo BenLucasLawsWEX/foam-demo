@@ -1,0 +1,26 @@
+---
+foam_template:
+    name: 'Journal'
+    filepath: 'Notes/Journal/$FOAM_DATE_YEAR/$FOAM_DATE_MONTH/$FOAM_DATE_DATE.md'
+---
+# $FOAM_DATE_YEAR-$FOAM_DATE_MONTH-$FOAM_DATE_DATE
+
+## Notes
+
+
+## Log
+<!-- LOG -->
+| Work                    | Code  | Time |
+| :---------------------- | :---: | ---: |
+| Support stand up        |   V   | 0.25 |
+| BTE stand up            |   F   | 0.25 |
+| Settlement Rec stand up |   F   | 0.25 |
+|                         |       |      |
+
+| Project     |                                                                                                  Time | Code  | Balance non-specific? |
+| :---------- | ----------------------------------------------------------------------------------------------------: | :---: | --------------------: |
+| Total       |                                                                                     [8](#SUM(B2:B99)) |   -   |                     N |
+| Unallocated |                                                                                [7.25](#8-SUM(B3:B99)) |   -   |                     N |
+| Leave       |                                                                 [0](#SUMIF(LOG!B1:B99,C3,LOG!C1:C99)) |   L   |                     N |
+| VANs        | [0.25](#SUMIF(LOG!B1:B99,C4,LOG!C1:C99)+((SUMIF(LOG!B1:B99,"N",LOG!C1:C99)*(1/COUNTIF(D1:D99,"Y"))))) |   V   |                     Y |
+| Funding     |  [0.5](#SUMIF(LOG!B1:B99,C5,LOG!C1:C99)+((SUMIF(LOG!B1:B99,"N",LOG!C1:C99)*(1/COUNTIF(D1:D99,"Y"))))) |   F   |                     Y |
