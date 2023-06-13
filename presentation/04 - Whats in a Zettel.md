@@ -2,10 +2,11 @@
 
 # 04 - What's in a Zettel?
 
-| :---: | :---: |
-| Unique identifier | |
-| Body | |
-| References | |
+|                   |
+| :---------------: |
+| Unique identifier |
+|       Body        |
+|    References     |
 
 - Focus on a single thought
 
