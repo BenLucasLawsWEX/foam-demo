@@ -1,6 +1,6 @@
 #slide
 
-# Agenda
+# 02 - Agenda
 
 ## The Zettelkasten method
 - What is it?
