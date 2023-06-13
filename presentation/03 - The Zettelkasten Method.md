@@ -8,5 +8,7 @@
 - Write first, tag/link later
 - Relate via tags/links rather than categorization/collection
 
+---
+
 Previous slide [[02 - Agenda]]
 Next slide
