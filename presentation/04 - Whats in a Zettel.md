@@ -2,13 +2,11 @@
 
 # 04 - What's in a Zettel?
 
-|                   |
-| :---------------: |
-| Unique identifier |
-|       Body        |
-|    References     |
+- Contents
+  - Unique identifier (title, maybe ID)
+  - Body - thoughts
+  - References
 
-- Focus on a single thought
 
 Previous slide [[03 - The Zettelkasten Method]]
 Next slide
