@@ -4,6 +4,7 @@
 
 ## The Zettelkasten method
 - What is it?
+- What makes it different?
 - 
 
 ## Using Visual Studio Code as a note taking tool
