@@ -9,4 +9,5 @@ foam_template:
 
 $0
 
+Previous slide
 Next slide
