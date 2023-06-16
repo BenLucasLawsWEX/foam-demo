@@ -9,7 +9,10 @@
 - Core note types
   - Temporary inbox - unstructured brain dump
   - Zettels - stuctured notes
-  - 
+
+- Other types I personally use
+  - Daily journal
+  - Dedicated 1:1 template/folders
 
 Previous slide [[03 - The Zettelkasten Method]]
 Next slide
