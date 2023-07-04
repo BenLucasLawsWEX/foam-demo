@@ -10,4 +10,4 @@
 ---
 
 Previous slide [[02 - Agenda]]
-Next slide
+Next slide [[04 - Linking knowledge]]
