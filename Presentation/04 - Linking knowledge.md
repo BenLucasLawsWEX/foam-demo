@@ -11,8 +11,8 @@
   - Zettels - stuctured notes
 
 - Other types I personally use
-  - Daily journal
+  - Daily journal - time tracking and daily inbox
   - Dedicated 1:1 template/folders
 
 Previous slide [[03 - The Zettelkasten Method]]
-Next slide
+Next slide [[05 - Whats in a Zettel]]
