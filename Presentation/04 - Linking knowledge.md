@@ -10,6 +10,10 @@
   - Temporary inbox - unstructured brain dump
   - Zettels - stuctured notes
 
+``` mermaid
+flowchart LR
+Thought --> Inbox --> Zettel
+
 - Other types I personally use
   - Daily journal - time tracking and daily inbox
   - Dedicated 1:1 template/folders
