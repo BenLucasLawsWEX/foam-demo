@@ -13,8 +13,6 @@
 ``` mermaid
 flowchart LR
 Thought --> Inbox --> Zettel
-Zettel --> rz["Related zettel"]
-Zettel --> rz2["Another related zettel"]
 ```
 
 - Other types I personally use
