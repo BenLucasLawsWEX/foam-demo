@@ -23,4 +23,4 @@ See https://zettelkasten.de/introduction/ The Anatomy of a Zettel
 ---
 
 Previous slide [[04 - Linking knowledge]]
-Next slide
+Next slide 
